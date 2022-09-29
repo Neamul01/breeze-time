@@ -1,7 +1,7 @@
 # Getting Started with Breeze Time application
 
-This site is live on [Breeze Time](https://breeze-time.netlify.app)./n
-This site is server side code link [Breeze Time server](https://github.com/Neamul01/breeze-time-server).
+`This site is live on` [Breeze Time](https://breeze-time.netlify.app)./n
+`This site is server side code link` [Breeze Time server](https://github.com/Neamul01/breeze-time-server).
 
 # Breeze Time 
 
