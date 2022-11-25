@@ -55,7 +55,7 @@ const SignUp = () => {
 
     };
     if (error || UpdateProfileError) {
-        toast.error(error.message)
+        toast.error(error?.message)
     }
 
     return (
