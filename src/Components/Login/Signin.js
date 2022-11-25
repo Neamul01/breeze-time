@@ -50,7 +50,7 @@ const Signin = () => {
 
     };
     if (createError || error) {
-        toast.error(error.message)
+        toast.error(error?.message)
     }
 
     return (
